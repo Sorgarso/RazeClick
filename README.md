@@ -13,7 +13,7 @@ Windows auto clicker with multi-location support and precise CPS control.
 - Multi-location clicking (user-defined coordinates)
 - Always on top
 - Customizable hotkey (F1–F12)
-<img width="957" height="420" alt="image" src="https://github.com/user-attachments/assets/461ddc4e-f504-485a-9ae0-21e1e8eddec8" />
+<img width="1283" height="373" alt="image" src="https://github.com/user-attachments/assets/1b88cf22-27c7-4222-8c7c-731ce44f3249" />
 
 
 ## Usage
