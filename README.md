@@ -1,4 +1,4 @@
-# RazeClick - Your Best Choice.
+# RazeAutoClicker - Your Best Choice.
 
 Windows auto clicker with multi-location support and precise CPS control.
 
