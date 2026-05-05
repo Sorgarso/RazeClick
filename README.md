@@ -14,6 +14,8 @@ Windows auto clicker with multi-location support and precise CPS control.
 - Multi-location clicking (user-defined coordinates)
 - Always on top
 - Customizable hotkey (F1–F12)
+- Keyboard Auto Clicker
+- Record and playback your actions
 <img width="1283" height="373" alt="image" src="https://github.com/user-attachments/assets/1b88cf22-27c7-4222-8c7c-731ce44f3249" />
 
 
