@@ -3,7 +3,8 @@
 Windows auto clicker with multi-location support and precise CPS control.
 
 
-<img width="800" height="365" alt="image" src="https://github.com/user-attachments/assets/0259beb0-dd57-42af-8001-c85e05889e11" />
+<img width="800" height="365" alt="autoclicker" src="https://github.com/user-attachments/assets/25c37a14-0d65-4d6f-96e5-89917c0c6ab6" />
+
 
 
 
