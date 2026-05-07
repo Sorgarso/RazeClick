@@ -2,7 +2,8 @@
 
 Windows auto clicker with multi-location support and precise CPS control.
 
-<img width="800" height="365" alt="RazeClicker_rjp6cf8BZi" src="https://github.com/user-attachments/assets/accca76c-68bc-46fc-9e44-3bbb48c113d5" />
+<img width="800" height="365" alt="RazeClicker_RlDANNbeAk" src="https://github.com/user-attachments/assets/d85b72f3-5a85-44cc-9396-cd7c6ee55e4f" />
+
 
 
 
